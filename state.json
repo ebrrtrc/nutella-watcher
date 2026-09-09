@@ -2,7 +2,7 @@
   "Günlük 250MB İnternet": true,
   "Günlük 500MB İnternet": false,
   "Haftalık 1GB İnternet": false,
-  "Haftalık 2GB İnternet": false,
+  "Haftalık 2GB İnternet": true,
   "Arabica İndirim Kodu": false,
   "Boyner İndirim Kodu": false,
   "Instreet İndirim Kodu": false,
@@ -24,6 +24,5 @@
   "Konyalı Saat İndirim Kuponu": false,
   "Puma İndirim Kuponu": false,
   "Online Lostra İndirim Kuponu": false,
-  "Madame Coco İndirim Kodu": false,
   "Karcher İndirim Kuponu": false
 }
